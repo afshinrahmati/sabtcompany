@@ -1,0 +1,103 @@
+body {
+    background-image: url('./octavian-rosca-UfCYo7zHyY8-unsplash.jpg');
+    background-repeat: no-repeat;
+}
+
+#ina {
+    background-color: rgba(2, 67, 247, 0.589);
+}
+
+input#d1,
+#d2,
+#d3,
+#d4,
+#d5 {
+    margin-top: 16px;
+    width: 151px;
+    color: #901d00;
+    margin: 15px;
+    background-color: rgba(120, 120, 240, 0.322);
+}
+
+.form-group {
+    display: flex;
+}
+
+button.btn.btn-default {
+    background: blue;
+    border-radius: 65%;
+    margin-top: 12px;
+    margin-left: 22px;
+    height: 46px;
+    margin-top: 10px;
+    color: yellow;
+}
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td,
+#customers th {
+    border: 1px solid blueviolet;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even) {
+    background-color: black;
+}
+
+#customers tr:hover {
+    background-color: rgba(2, 67, 247, 0.658);
+}
+
+#customers tr {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: red;
+    color: whitesmoke;
+}
+
+.rem {
+    border: navajowhite;
+    background: #0bf7a0;
+    color: orangered;
+    font-family: monospace;
+    border-radius: 4px;
+}
+
+.edibt {
+    width: 35px;
+}
+
+
+/* 
+input#d11,
+#d22,
+#d33,
+#d44,
+#d55 {
+    margin-top: 16px;
+    width: 151px;
+    color: #901d00;
+    margin: 15px;
+    background-color: rgba(50, 243, 2, 0.322);
+}
+
+.edif {
+    display: flex;
+}
+
+button#editbut {
+    border: none;
+    width: 68px;
+    height: 37px;
+    margin-top: 14px;
+    background-color: #ff0909;
+    color: yellow;
+    font-family: monospace;
+    border-radius: 15px 3px;
+} */
